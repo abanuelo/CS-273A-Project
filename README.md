@@ -14,5 +14,6 @@ Below are illustrations of the result of the statistical investigation. More-so,
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32311654/49622998-a8ec7900-f980-11e8-9894-b5fc5108dded.png">
   <img src="https://user-images.githubusercontent.com/32311654/49623223-a0e10900-f981-11e8-8a15-f1fd3fc84a03.png">
+  <img src="https://user-images.githubusercontent.com/32311654/49623272-d259d480-f981-11e8-985c-3cbb8fb9fa49.png">
 </p>
 
